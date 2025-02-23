@@ -1,2 +1,2 @@
 # Applied-Data-Science-1-
-Using Data Science to Solve Real-World Problems
+This repository will be a store for my work on the module APPLIED DATA SCIENCE 1
